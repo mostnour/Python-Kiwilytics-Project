@@ -80,7 +80,7 @@ df.describe()
 
 ### 3️⃣ Handling Missing Data
 
-Some `**unit_price`** values are missing.
+Some **unit_price** values are missing.
 
 **Strategy:**
 Fill missing prices using the **average unit price per product.**
@@ -206,8 +206,6 @@ The customer with the highest total spending is:
 
 
 ### 👤 Author
-Moustafa Gaber
-Data • Analytics • ETL • Python
 
 
 Moustafa Gaber
