@@ -80,7 +80,7 @@ df.describe()
 
 ### 3️⃣ Handling Missing Data
 
-Some `***unit_price`*** values are missing.
+Some `**unit_price`** values are missing.
 
 **Strategy:**
 Fill missing prices using the **average unit price per product.**
