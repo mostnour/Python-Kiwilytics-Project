@@ -94,9 +94,13 @@ df['unit_price'] = df['unit_price'].fillna(
 
 
 > [!NOTE]
-* This ensures consistency
-* Avoids hard-coding values
-* Scales well for large datasets
+> This ensures consistency
+
+> [!NOTE]
+> Avoids hard-coding values
+
+> [!NOTE]
+> Scales well for large datasets
 
 ### 4️⃣ Convert Data Types
 
